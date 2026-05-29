@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Large data files (if any)
+data/*.nc
+
+# OS files
+.DS_Store
+Thumbs.db
