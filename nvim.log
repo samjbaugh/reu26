@@ -1,3 +1,9 @@
 WRN 2026-06-01T14:36:07.937 ui.464190  tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
 WRN 2026-06-01T14:36:07.938 ?.464191   socket_watcher_start:177: Failed to remove stale socket /run/user/1000/nvim.464191.0: permission denied
 WRN 2026-06-01T14:36:07.938 ?.464191   server_start:197: Failed to start server: permission denied: /run/user/1000/
+WRN 2026-06-10T13:51:29.527 ui.66833   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-06-10T13:51:29.530 ?.66834    socket_watcher_start:177: Failed to remove stale socket /run/user/1000/nvim.66834.0: permission denied
+WRN 2026-06-10T13:51:29.530 ?.66834    server_start:197: Failed to start server: permission denied: /run/user/1000/
+WRN 2026-06-10T13:53:13.729 ui.97415   tui_handle_term_mode:239: TUI: terminal mode 2031 detected, state 2
+WRN 2026-06-10T13:53:13.731 ?.97419    socket_watcher_start:177: Failed to remove stale socket /run/user/1000/nvim.97419.0: permission denied
+WRN 2026-06-10T13:53:13.731 ?.97419    server_start:197: Failed to start server: permission denied: /run/user/1000/
